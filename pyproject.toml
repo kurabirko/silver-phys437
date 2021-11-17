@@ -5,7 +5,7 @@ description = "Fork of qworld silver for metu phys 437"
 authors = ["Utku Birkan <utku.birkan@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.7"
 qiskit = "^0.32"
 jupyterlab = "^3.2"
 matplotlib = "^3.5.0"
