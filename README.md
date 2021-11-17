@@ -1,4 +1,6 @@
-## QWorld's Silver 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kurabirko/silver-phys437/main?labpath=content.ipynb)
+
+## METU Phys 437 Fork of QWorld's Silver 
 Welcome to QWorld's Silver!
 
 

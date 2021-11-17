@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "silver-phys437"
+version = "0.1.0"
+description = "Fork of qworld silver for metu phys 437"
+authors = ["Utku Birkan <utku.birkan@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+qiskit = "^0.32"
+jupyterlab = "^3.2"
+matplotlib = "^3.5.0"
+pylatexenc = "^2.10"
+
+[tool.poetry.dev-dependencies]
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.extras]
+qiskit = ["visualization"]
