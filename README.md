@@ -15,18 +15,16 @@ We would like to thank participants of the QSilver Revision Week organized in Ja
 
 #### Introduction to Complex Numbers, Bloch Sphere, Operations with Complex Numbers
 
-This part is developed by Dr. Maksim Dimitrijev(<a href="https://qworld.net/qlatvia/" target="_blank">QLatvia</a>). <a href="https://people.fjfi.cvut.cz/gabriaur/ " target="_blank">Dr. Aurél Gábris</a> (<a href="https://qworld.net/qczech/" target="_blank">QCzech</a>) contributed by providing additional content.     
+This part is developed by Dr. Maksim Dimitrijev" ([QLatvia](https://qworld.net/qlatvia/)). [Dr. Aurél Gábris](https://people.fjfi.cvut.cz/gabriaur) ([QCzech](https://qworld.net/qczech/)) contributed by providing additional content.     
 
 #### Quantum Fourier Transform and Shor's Algorithm
 
-This section is developed by <a href="https://www.cmpe.boun.edu.tr/~ozlem.salehi/" target="_blank">Dr. Özlem Salehi</a>.
+This section is developed by [Dr. Özlem Salehi](https://www.cmpe.boun.edu.tr/~ozlem.salehi/).
 
 
 ## Making Contributions
 
-If you are interested, you are welcome to contribute to Silver. Please read QWorld's rules for developing projects.
-
-http://qworld.lu.lv/wp-content/uploads/2020/09/Rules-for-the-projects-developed-under-the-QEducation-2020-Sep-22.pdf
+If you are interested, you are welcome to contribute to Silver. Please read [QWorld's rules for developing projects](http://qworld.lu.lv/wp-content/uploads/2020/09/Rules-for-the-projects-developed-under-the-QEducation-2020-Sep-22.pdf).
 
 
 ## License
